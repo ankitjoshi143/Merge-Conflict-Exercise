@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+Text that Conflicts to main branch references file
